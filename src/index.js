@@ -63,6 +63,7 @@ function updateCity(event) {
             "H:mm:ss [<small>] a [</small>]"
           )}</div>
         </div>
+        <a href = "/" class = "city-link" title = "Show all Cities"> All Cities </a>
   `;
 }
 
